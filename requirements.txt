@@ -1,0 +1,9 @@
+jax>=0.4.13
+jaxlib>=0.4.13
+flax>=0.7.5
+optax>=0.1.7
+numpy>=1.24.0
+tensorflow-datasets>=4.9.2
+matplotlib>=3.7.1
+jupyter>=1.0.0
+tqdm>=4.65.0
